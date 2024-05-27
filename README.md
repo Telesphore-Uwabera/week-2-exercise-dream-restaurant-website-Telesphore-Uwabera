@@ -1,8 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6fEQ-wNh)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15038424)
-# afd_week1_html_code_puzzle
+# **Assignment Title: GitHub Classroom HTML Code Puzzle Challenge**
 
-**Assignment Title: GitHub Classroom HTML Code Puzzle Challenge**
 
 **Objective:**
 To assess and enhance students' understanding of HTML structure, tags, and their ability to organize and collaborate on creating a well-structured HTML page using GitHub Classroom.
